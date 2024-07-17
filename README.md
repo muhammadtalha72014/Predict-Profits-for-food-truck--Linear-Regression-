@@ -1,4 +1,4 @@
-# Predict-Profits-for-food-truck
+# Predict-Profits-for-food-truck (With Basic Python Function and Pytorch)
 ## Introduction
 
 In this exercise, I implemented linear regression and get to see it work on data. Before starting on this programming exercise, I strongly recommend clearing concepts of linear regression, gradient descent and feature normalization. To get started with the exercise, I will need to download the starter code and unzip its contents to the folder. Files incuded are:
